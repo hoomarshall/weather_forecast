@@ -1,0 +1,1934 @@
+[2023-05-27 11:29:43,190] {manager.py:474} INFO - Processing files using up to 2 processes at a time 
+[2023-05-27 11:29:43,201] {manager.py:475} INFO - Process each file at most once every 30 seconds
+[2023-05-27 11:29:43,215] {manager.py:477} INFO - Checking for new files in /opt/airflow/dags every 300 seconds
+[2023-05-27 11:29:43,221] {manager.py:684} INFO - Searching for files in /opt/airflow/dags
+[2023-05-27 11:29:43,229] {manager.py:687} INFO - There are 0 files in /opt/airflow/dags
+[2023-05-27 11:34:43,367] {manager.py:684} INFO - Searching for files in /opt/airflow/dags
+[2023-05-27 11:34:43,381] {manager.py:687} INFO - There are 0 files in /opt/airflow/dags
+[2023-05-27 11:39:43,532] {manager.py:684} INFO - Searching for files in /opt/airflow/dags
+[2023-05-27 11:39:43,574] {manager.py:687} INFO - There are 0 files in /opt/airflow/dags
+[2023-05-27 11:44:43,723] {manager.py:684} INFO - Searching for files in /opt/airflow/dags
+[2023-05-27 11:44:43,736] {manager.py:687} INFO - There are 0 files in /opt/airflow/dags
+[2023-05-27 11:49:43,854] {manager.py:684} INFO - Searching for files in /opt/airflow/dags
+[2023-05-27 11:49:43,981] {manager.py:687} INFO - There are 0 files in /opt/airflow/dags
+[2023-05-27 11:54:43,972] {manager.py:684} INFO - Searching for files in /opt/airflow/dags
+[2023-05-27 11:54:43,982] {manager.py:687} INFO - There are 0 files in /opt/airflow/dags
+[2023-05-27 11:59:44,142] {manager.py:684} INFO - Searching for files in /opt/airflow/dags
+[2023-05-27 11:59:44,190] {manager.py:687} INFO - There are 0 files in /opt/airflow/dags
+[2023-05-27 12:04:44,406] {manager.py:684} INFO - Searching for files in /opt/airflow/dags
+[2023-05-27 12:04:44,434] {manager.py:687} INFO - There are 0 files in /opt/airflow/dags
+[2023-05-27 12:09:44,607] {manager.py:684} INFO - Searching for files in /opt/airflow/dags
+[2023-05-27 12:09:44,615] {manager.py:687} INFO - There are 0 files in /opt/airflow/dags
+[2023-05-27 12:14:45,033] {manager.py:684} INFO - Searching for files in /opt/airflow/dags
+[2023-05-27 12:14:45,049] {manager.py:687} INFO - There are 0 files in /opt/airflow/dags
+[2023-05-27 12:19:45,067] {manager.py:684} INFO - Searching for files in /opt/airflow/dags
+[2023-05-27 12:19:45,076] {manager.py:687} INFO - There are 0 files in /opt/airflow/dags
+[2023-05-27 12:24:45,963] {manager.py:684} INFO - Searching for files in /opt/airflow/dags
+[2023-05-27 12:24:45,976] {manager.py:687} INFO - There are 0 files in /opt/airflow/dags
+[2023-05-27 12:29:46,869] {manager.py:684} INFO - Searching for files in /opt/airflow/dags
+[2023-05-27 12:29:46,883] {manager.py:687} INFO - There are 0 files in /opt/airflow/dags
+[2023-05-27 12:34:47,011] {manager.py:684} INFO - Searching for files in /opt/airflow/dags
+[2023-05-27 12:34:47,020] {manager.py:687} INFO - There are 0 files in /opt/airflow/dags
+[2023-05-27 12:39:47,095] {manager.py:684} INFO - Searching for files in /opt/airflow/dags
+[2023-05-27 12:39:47,104] {manager.py:687} INFO - There are 0 files in /opt/airflow/dags
+[2023-05-27 12:44:47,193] {manager.py:684} INFO - Searching for files in /opt/airflow/dags
+[2023-05-27 12:44:47,206] {manager.py:687} INFO - There are 0 files in /opt/airflow/dags
+[2023-05-27 12:49:48,111] {manager.py:684} INFO - Searching for files in /opt/airflow/dags
+[2023-05-27 12:49:48,120] {manager.py:687} INFO - There are 0 files in /opt/airflow/dags
+[2023-05-27 12:54:49,012] {manager.py:684} INFO - Searching for files in /opt/airflow/dags
+[2023-05-27 12:54:49,020] {manager.py:687} INFO - There are 0 files in /opt/airflow/dags
+[2023-05-27 12:59:49,093] {manager.py:684} INFO - Searching for files in /opt/airflow/dags
+[2023-05-27 12:59:49,111] {manager.py:687} INFO - There are 0 files in /opt/airflow/dags
+[2023-05-27 13:04:49,391] {manager.py:684} INFO - Searching for files in /opt/airflow/dags
+[2023-05-27 13:04:49,450] {manager.py:687} INFO - There are 0 files in /opt/airflow/dags
+[2023-05-27 13:09:49,687] {manager.py:684} INFO - Searching for files in /opt/airflow/dags
+[2023-05-27 13:09:49,693] {manager.py:687} INFO - There are 0 files in /opt/airflow/dags
+[2023-05-27 13:14:50,551] {manager.py:684} INFO - Searching for files in /opt/airflow/dags
+[2023-05-27 13:14:50,562] {manager.py:687} INFO - There are 0 files in /opt/airflow/dags
+[2023-05-27 13:19:51,402] {manager.py:684} INFO - Searching for files in /opt/airflow/dags
+[2023-05-27 13:19:51,495] {manager.py:687} INFO - There are 0 files in /opt/airflow/dags
+[2023-05-27 15:23:38,951] {manager.py:684} INFO - Searching for files in /opt/airflow/dags
+[2023-05-27 15:23:39,016] {manager.py:687} INFO - There are 0 files in /opt/airflow/dags
+[2023-05-27 15:23:39,191] {manager.py:455} INFO - Exiting gracefully upon receiving signal 15
+[2023-05-27 15:23:44,824] {manager.py:474} INFO - Processing files using up to 2 processes at a time 
+[2023-05-27 15:23:44,847] {manager.py:475} INFO - Process each file at most once every 30 seconds
+[2023-05-27 15:23:44,927] {manager.py:477} INFO - Checking for new files in /opt/airflow/dags every 300 seconds
+[2023-05-27 15:23:45,088] {manager.py:684} INFO - Searching for files in /opt/airflow/dags
+[2023-05-27 15:23:45,250] {manager.py:687} INFO - There are 0 files in /opt/airflow/dags
+[2023-05-28 01:25:12,928] {manager.py:684} INFO - Searching for files in /opt/airflow/dags
+[2023-05-28 01:25:12,944] {manager.py:687} INFO - There are 0 files in /opt/airflow/dags
+[2023-05-28 08:27:32,350] {manager.py:684} INFO - Searching for files in /opt/airflow/dags
+[2023-05-28 08:27:32,381] {manager.py:687} INFO - There are 0 files in /opt/airflow/dags
+[2023-05-28 08:32:32,477] {manager.py:684} INFO - Searching for files in /opt/airflow/dags
+[2023-05-28 08:32:32,487] {manager.py:687} INFO - There are 0 files in /opt/airflow/dags
+[2023-05-28 08:37:32,521] {manager.py:684} INFO - Searching for files in /opt/airflow/dags
+[2023-05-28 08:37:32,544] {manager.py:687} INFO - There are 0 files in /opt/airflow/dags
+[2023-05-28 08:42:32,906] {manager.py:684} INFO - Searching for files in /opt/airflow/dags
+[2023-05-28 08:42:32,914] {manager.py:687} INFO - There are 0 files in /opt/airflow/dags
+[2023-05-28 08:47:33,212] {manager.py:684} INFO - Searching for files in /opt/airflow/dags
+[2023-05-28 08:47:33,221] {manager.py:687} INFO - There are 0 files in /opt/airflow/dags
+[2023-05-28 08:52:33,386] {manager.py:684} INFO - Searching for files in /opt/airflow/dags
+[2023-05-28 08:52:33,400] {manager.py:687} INFO - There are 0 files in /opt/airflow/dags
+[2023-05-28 08:57:34,037] {manager.py:684} INFO - Searching for files in /opt/airflow/dags
+[2023-05-28 08:57:34,043] {manager.py:687} INFO - There are 0 files in /opt/airflow/dags
+[2023-05-28 09:02:34,255] {manager.py:684} INFO - Searching for files in /opt/airflow/dags
+[2023-05-28 09:02:34,266] {manager.py:687} INFO - There are 0 files in /opt/airflow/dags
+[2023-05-28 09:07:34,315] {manager.py:684} INFO - Searching for files in /opt/airflow/dags
+[2023-05-28 09:07:34,325] {manager.py:687} INFO - There are 0 files in /opt/airflow/dags
+[2023-05-28 09:12:35,244] {manager.py:684} INFO - Searching for files in /opt/airflow/dags
+[2023-05-28 09:12:35,253] {manager.py:687} INFO - There are 0 files in /opt/airflow/dags
+[2023-05-28 09:17:35,265] {manager.py:684} INFO - Searching for files in /opt/airflow/dags
+[2023-05-28 09:17:35,275] {manager.py:687} INFO - There are 0 files in /opt/airflow/dags
+[2023-05-28 09:22:35,292] {manager.py:684} INFO - Searching for files in /opt/airflow/dags
+[2023-05-28 09:22:35,301] {manager.py:687} INFO - There are 0 files in /opt/airflow/dags
+[2023-05-28 09:27:36,237] {manager.py:684} INFO - Searching for files in /opt/airflow/dags
+[2023-05-28 09:27:36,249] {manager.py:687} INFO - There are 0 files in /opt/airflow/dags
+[2023-05-28 09:32:36,262] {manager.py:684} INFO - Searching for files in /opt/airflow/dags
+[2023-05-28 09:32:36,324] {manager.py:687} INFO - There are 0 files in /opt/airflow/dags
+[2023-05-28 09:37:37,257] {manager.py:684} INFO - Searching for files in /opt/airflow/dags
+[2023-05-28 09:37:37,266] {manager.py:687} INFO - There are 0 files in /opt/airflow/dags
+[2023-05-28 09:42:38,106] {manager.py:684} INFO - Searching for files in /opt/airflow/dags
+[2023-05-28 09:42:38,113] {manager.py:687} INFO - There are 0 files in /opt/airflow/dags
+[2023-05-28 09:47:39,007] {manager.py:684} INFO - Searching for files in /opt/airflow/dags
+[2023-05-28 09:47:39,016] {manager.py:687} INFO - There are 0 files in /opt/airflow/dags
+[2023-05-28 09:52:39,213] {manager.py:684} INFO - Searching for files in /opt/airflow/dags
+[2023-05-28 09:52:39,225] {manager.py:687} INFO - There are 0 files in /opt/airflow/dags
+[2023-05-28 09:57:39,372] {manager.py:684} INFO - Searching for files in /opt/airflow/dags
+[2023-05-28 09:57:39,378] {manager.py:687} INFO - There are 0 files in /opt/airflow/dags
+[2023-05-28 10:02:39,686] {manager.py:684} INFO - Searching for files in /opt/airflow/dags
+[2023-05-28 10:02:39,694] {manager.py:687} INFO - There are 0 files in /opt/airflow/dags
+[2023-05-28 10:07:40,481] {manager.py:684} INFO - Searching for files in /opt/airflow/dags
+[2023-05-28 10:07:40,491] {manager.py:687} INFO - There are 0 files in /opt/airflow/dags
+[2023-05-28 10:12:40,637] {manager.py:684} INFO - Searching for files in /opt/airflow/dags
+[2023-05-28 10:12:40,645] {manager.py:687} INFO - There are 0 files in /opt/airflow/dags
+[2023-05-28 10:17:41,267] {manager.py:684} INFO - Searching for files in /opt/airflow/dags
+[2023-05-28 10:17:41,275] {manager.py:687} INFO - There are 0 files in /opt/airflow/dags
+[2023-05-28 10:22:41,465] {manager.py:684} INFO - Searching for files in /opt/airflow/dags
+[2023-05-28 10:22:41,472] {manager.py:687} INFO - There are 0 files in /opt/airflow/dags
+[2023-05-28 10:27:41,745] {manager.py:684} INFO - Searching for files in /opt/airflow/dags
+[2023-05-28 10:27:41,755] {manager.py:687} INFO - There are 0 files in /opt/airflow/dags
+[2023-05-28 10:32:42,073] {manager.py:684} INFO - Searching for files in /opt/airflow/dags
+[2023-05-28 10:32:42,083] {manager.py:687} INFO - There are 0 files in /opt/airflow/dags
+[2023-05-28 10:37:43,005] {manager.py:684} INFO - Searching for files in /opt/airflow/dags
+[2023-05-28 10:37:43,014] {manager.py:687} INFO - There are 0 files in /opt/airflow/dags
+[2023-05-28 10:42:43,017] {manager.py:684} INFO - Searching for files in /opt/airflow/dags
+[2023-05-28 10:42:43,026] {manager.py:687} INFO - There are 0 files in /opt/airflow/dags
+[2023-05-28 10:47:43,131] {manager.py:684} INFO - Searching for files in /opt/airflow/dags
+[2023-05-28 10:47:43,144] {manager.py:687} INFO - There are 0 files in /opt/airflow/dags
+[2023-05-28 10:52:44,111] {manager.py:684} INFO - Searching for files in /opt/airflow/dags
+[2023-05-28 10:52:44,123] {manager.py:687} INFO - There are 0 files in /opt/airflow/dags
+[2023-05-28 10:57:44,642] {manager.py:684} INFO - Searching for files in /opt/airflow/dags
+[2023-05-28 10:57:44,652] {manager.py:687} INFO - There are 0 files in /opt/airflow/dags
+[2023-05-28 11:02:44,701] {manager.py:684} INFO - Searching for files in /opt/airflow/dags
+[2023-05-28 11:02:44,710] {manager.py:687} INFO - There are 0 files in /opt/airflow/dags
+[2023-05-28 11:07:44,768] {manager.py:684} INFO - Searching for files in /opt/airflow/dags
+[2023-05-28 11:07:44,818] {manager.py:687} INFO - There are 0 files in /opt/airflow/dags
+[2023-05-28 11:12:45,182] {manager.py:684} INFO - Searching for files in /opt/airflow/dags
+[2023-05-28 11:12:45,199] {manager.py:687} INFO - There are 0 files in /opt/airflow/dags
+[2023-05-28 11:17:45,399] {manager.py:684} INFO - Searching for files in /opt/airflow/dags
+[2023-05-28 11:17:45,410] {manager.py:687} INFO - There are 0 files in /opt/airflow/dags
+[2023-05-28 11:22:45,611] {manager.py:684} INFO - Searching for files in /opt/airflow/dags
+[2023-05-28 11:22:45,619] {manager.py:687} INFO - There are 0 files in /opt/airflow/dags
+[2023-05-28 11:27:46,530] {manager.py:684} INFO - Searching for files in /opt/airflow/dags
+[2023-05-28 11:27:46,540] {manager.py:687} INFO - There are 0 files in /opt/airflow/dags
+[2023-05-28 11:32:46,720] {manager.py:684} INFO - Searching for files in /opt/airflow/dags
+[2023-05-28 11:32:46,727] {manager.py:687} INFO - There are 0 files in /opt/airflow/dags
+[2023-05-28 11:37:47,567] {manager.py:684} INFO - Searching for files in /opt/airflow/dags
+[2023-05-28 11:37:47,589] {manager.py:687} INFO - There are 0 files in /opt/airflow/dags
+[2023-05-28 11:42:48,500] {manager.py:684} INFO - Searching for files in /opt/airflow/dags
+[2023-05-28 11:42:48,507] {manager.py:687} INFO - There are 0 files in /opt/airflow/dags
+[2023-05-28 14:44:21,881] {manager.py:684} INFO - Searching for files in /opt/airflow/dags
+[2023-05-28 14:44:29,418] {manager.py:687} INFO - There are 0 files in /opt/airflow/dags
+[2023-05-28 14:49:21,995] {manager.py:684} INFO - Searching for files in /opt/airflow/dags
+[2023-05-28 14:49:22,127] {manager.py:687} INFO - There are 0 files in /opt/airflow/dags
+[2023-05-28 14:54:22,521] {manager.py:684} INFO - Searching for files in /opt/airflow/dags
+[2023-05-28 14:54:22,535] {manager.py:687} INFO - There are 0 files in /opt/airflow/dags
+[2023-05-28 14:59:22,798] {manager.py:684} INFO - Searching for files in /opt/airflow/dags
+[2023-05-28 14:59:22,815] {manager.py:687} INFO - There are 0 files in /opt/airflow/dags
+[2023-05-28 15:04:23,298] {manager.py:684} INFO - Searching for files in /opt/airflow/dags
+[2023-05-28 15:04:23,360] {manager.py:687} INFO - There are 1 files in /opt/airflow/dags
+[2023-05-28 15:04:40,897] {manager.py:803} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/weather_forecast.py                           1           0  6.34s           2023-05-28T15:04:29
+================================================================================
+[2023-05-28 15:05:11,083] {manager.py:803} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/weather_forecast.py                           1           0  0.76s           2023-05-28T15:05:00
+================================================================================
+[2023-05-28 15:05:41,170] {manager.py:803} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/weather_forecast.py                           1           0  0.70s           2023-05-28T15:05:31
+================================================================================
+[2023-05-28 15:06:11,417] {manager.py:803} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/weather_forecast.py                           1           0  0.82s           2023-05-28T15:06:02
+================================================================================
+[2023-05-28 15:06:41,508] {manager.py:803} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/weather_forecast.py                           1           0  0.73s           2023-05-28T15:06:33
+================================================================================
+[2023-05-28 15:07:11,612] {manager.py:803} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/weather_forecast.py                           1           0  0.64s           2023-05-28T15:07:04
+================================================================================
+[2023-05-28 15:07:41,695] {manager.py:803} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/weather_forecast.py                           1           0  0.65s           2023-05-28T15:07:34
+================================================================================
+[2023-05-28 15:08:11,896] {manager.py:803} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/weather_forecast.py                           1           0  0.80s           2023-05-28T15:08:05
+================================================================================
+[2023-05-28 15:08:42,033] {manager.py:803} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/weather_forecast.py                           1           0  1.58s           2023-05-28T15:08:37
+================================================================================
+[2023-05-28 15:09:12,081] {manager.py:803} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/weather_forecast.py                           1           0  2.32s           2023-05-28T15:09:10
+================================================================================
+[2023-05-28 15:09:23,848] {manager.py:684} INFO - Searching for files in /opt/airflow/dags
+[2023-05-28 15:09:23,872] {manager.py:687} INFO - There are 1 files in /opt/airflow/dags
+[2023-05-28 15:09:42,496] {manager.py:803} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/weather_forecast.py                           1           0  1.37s           2023-05-28T15:09:41
+================================================================================
+[2023-05-28 15:10:12,584] {manager.py:803} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/weather_forecast.py                           1           0  0.68s           2023-05-28T15:10:12
+================================================================================
+[2023-05-28 15:10:42,681] {manager.py:803} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/weather_forecast.py    259  0.01s             1           0  0.68s           2023-05-28T15:10:12
+================================================================================
+[2023-05-28 15:11:13,049] {manager.py:803} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/weather_forecast.py                           1           0  0.75s           2023-05-28T15:10:43
+================================================================================
+[2023-05-28 15:11:43,139] {manager.py:803} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/weather_forecast.py                           1           0  0.66s           2023-05-28T15:11:14
+================================================================================
+[2023-05-28 15:12:13,290] {manager.py:803} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/weather_forecast.py                           1           0  0.67s           2023-05-28T15:11:44
+================================================================================
+[2023-05-28 15:12:43,376] {manager.py:803} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/weather_forecast.py                           1           0  0.67s           2023-05-28T15:12:15
+================================================================================
+[2023-05-28 15:13:13,441] {manager.py:803} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/weather_forecast.py                           1           0  0.66s           2023-05-28T15:12:46
+================================================================================
+[2023-05-28 15:13:44,002] {manager.py:803} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/weather_forecast.py                           1           0  0.64s           2023-05-28T15:13:17
+================================================================================
+[2023-05-28 15:14:14,124] {manager.py:803} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/weather_forecast.py                           1           0  1.83s           2023-05-28T15:13:49
+================================================================================
+[2023-05-28 15:14:23,892] {manager.py:684} INFO - Searching for files in /opt/airflow/dags
+[2023-05-28 15:14:23,962] {manager.py:687} INFO - There are 1 files in /opt/airflow/dags
+[2023-05-28 15:14:44,196] {manager.py:803} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/weather_forecast.py                           1           0  0.73s           2023-05-28T15:14:19
+================================================================================
+[2023-05-28 15:15:14,555] {manager.py:803} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/weather_forecast.py                           1           0  1.29s           2023-05-28T15:14:51
+================================================================================
+[2023-05-28 15:15:44,997] {manager.py:803} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/weather_forecast.py                           1           0  2.16s           2023-05-28T15:15:24
+================================================================================
+[2023-05-28 15:16:15,040] {manager.py:803} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/weather_forecast.py                           1           0  0.94s           2023-05-28T15:15:54
+================================================================================
+[2023-05-28 15:16:45,270] {manager.py:803} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/weather_forecast.py                           1           0  0.89s           2023-05-28T15:16:25
+================================================================================
+[2023-05-28 15:17:15,353] {manager.py:803} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/weather_forecast.py                           1           0  0.84s           2023-05-28T15:16:56
+================================================================================
+[2023-05-28 15:17:45,379] {manager.py:803} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/weather_forecast.py                           1           0  1.34s           2023-05-28T15:17:28
+================================================================================
+[2023-05-28 15:18:16,203] {manager.py:803} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/weather_forecast.py                           1           0  0.84s           2023-05-28T15:17:59
+================================================================================
+[2023-05-28 15:18:46,400] {manager.py:803} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/weather_forecast.py                           1           0  0.83s           2023-05-28T15:18:30
+================================================================================
+[2023-05-28 15:19:16,540] {manager.py:803} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/weather_forecast.py                           1           0  0.69s           2023-05-28T15:19:01
+================================================================================
+[2023-05-28 15:19:24,238] {manager.py:684} INFO - Searching for files in /opt/airflow/dags
+[2023-05-28 15:19:24,297] {manager.py:687} INFO - There are 1 files in /opt/airflow/dags
+[2023-05-28 15:19:46,649] {manager.py:803} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/weather_forecast.py                           1           0  0.65s           2023-05-28T15:19:32
+================================================================================
+[2023-05-28 15:20:17,255] {manager.py:803} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/weather_forecast.py                           1           0  1.35s           2023-05-28T15:20:03
+================================================================================
+[2023-05-28 15:20:47,367] {manager.py:803} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/weather_forecast.py                           1           0  0.70s           2023-05-28T15:20:34
+================================================================================
+[2023-05-28 15:21:17,830] {manager.py:803} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/weather_forecast.py                           1           0  2.32s           2023-05-28T15:21:06
+================================================================================
+[2023-05-28 15:21:47,971] {manager.py:803} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/weather_forecast.py                           1           0  1.09s           2023-05-28T15:21:38
+================================================================================
+[2023-05-28 15:22:18,103] {manager.py:803} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/weather_forecast.py                           1           0  0.77s           2023-05-28T15:22:08
+================================================================================
+[2023-05-28 15:22:48,186] {manager.py:803} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/weather_forecast.py                           1           0  0.69s           2023-05-28T15:22:39
+================================================================================
+[2023-05-28 15:23:18,743] {manager.py:803} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/weather_forecast.py                           1           0  2.30s           2023-05-28T15:23:10
+================================================================================
+[2023-05-28 15:23:49,192] {manager.py:803} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/weather_forecast.py                           0           1  0.74s           2023-05-28T15:23:30
+================================================================================
+[2023-05-28 15:24:19,564] {manager.py:803} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/weather_forecast.py                           0           1  0.18s           2023-05-28T15:24:15
+================================================================================
+[2023-05-28 15:24:24,645] {manager.py:684} INFO - Searching for files in /opt/airflow/dags
+[2023-05-28 15:24:24,662] {manager.py:687} INFO - There are 1 files in /opt/airflow/dags
+[2023-05-28 15:24:38,849] {manager.py:505} INFO - DAG hko_weather_forecast is missing and will be deactivated.
+[2023-05-28 15:24:38,863] {manager.py:515} INFO - Deactivated 1 DAGs which are no longer present in file.
+[2023-05-28 15:24:49,972] {manager.py:803} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/weather_forecast.py                           0           1  0.10s           2023-05-28T15:24:46
+================================================================================
+[2023-05-28 15:25:20,765] {manager.py:803} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/weather_forecast.py                           1           0  1.14s           2023-05-28T15:25:18
+================================================================================
+[2023-05-28 15:25:50,799] {manager.py:803} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/weather_forecast.py                           1           0  0.68s           2023-05-28T15:25:49
+================================================================================
+[2023-05-28 15:26:21,114] {manager.py:803} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/weather_forecast.py                           1           0  0.99s           2023-05-28T15:26:11
+================================================================================
+[2023-05-28 15:26:51,146] {manager.py:803} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/weather_forecast.py    570  0.21s             0           1  0.97s           2023-05-28T15:26:49
+================================================================================
+[2023-05-28 15:27:21,349] {manager.py:803} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/weather_forecast.py                           0           1  0.92s           2023-05-28T15:26:51
+================================================================================
+[2023-05-28 15:27:39,578] {manager.py:505} INFO - DAG hko_weather_forecast is missing and will be deactivated.
+[2023-05-28 15:27:39,586] {manager.py:515} INFO - Deactivated 1 DAGs which are no longer present in file.
+[2023-05-28 15:27:51,621] {manager.py:803} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/weather_forecast.py                           0           1  0.81s           2023-05-28T15:27:22
+================================================================================
+[2023-05-28 15:28:21,710] {manager.py:803} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/weather_forecast.py                           0           1  0.74s           2023-05-28T15:27:53
+================================================================================
+[2023-05-28 15:28:52,122] {manager.py:803} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/weather_forecast.py                           0           1  2.15s           2023-05-28T15:28:25
+================================================================================
+[2023-05-28 15:29:22,302] {manager.py:803} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/weather_forecast.py                           0           1  1.33s           2023-05-28T15:28:57
+================================================================================
+[2023-05-28 15:29:25,318] {manager.py:684} INFO - Searching for files in /opt/airflow/dags
+[2023-05-28 15:29:25,341] {manager.py:687} INFO - There are 1 files in /opt/airflow/dags
+[2023-05-28 15:29:52,353] {manager.py:803} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/weather_forecast.py                           0           1  0.69s           2023-05-28T15:29:28
+================================================================================
+[2023-05-28 15:30:22,456] {manager.py:803} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/weather_forecast.py                           0           1  1.24s           2023-05-28T15:29:59
+================================================================================
+[2023-05-28 15:30:52,519] {manager.py:803} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/weather_forecast.py                           0           1  1.58s           2023-05-28T15:30:40
+================================================================================
+[2023-05-28 15:31:22,956] {manager.py:803} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/weather_forecast.py    648  0.72s             1           0  0.76s           2023-05-28T15:31:08
+================================================================================
+[2023-05-28 15:31:53,146] {manager.py:803} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/weather_forecast.py                           1           0  1.18s           2023-05-28T15:31:49
+================================================================================
+[2023-05-28 15:32:23,243] {manager.py:803} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/weather_forecast.py                           1           0  0.98s           2023-05-28T15:31:55
+================================================================================
+[2023-05-28 15:32:53,428] {manager.py:803} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/weather_forecast.py                           1           0  0.63s           2023-05-28T15:32:25
+================================================================================
+[2023-05-28 15:33:23,531] {manager.py:803} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/weather_forecast.py                           1           0  0.84s           2023-05-28T15:32:56
+================================================================================
+[2023-05-28 15:33:54,157] {manager.py:803} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/weather_forecast.py                           1           0  1.12s           2023-05-28T15:33:28
+================================================================================
+[2023-05-28 15:34:24,403] {manager.py:803} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/weather_forecast.py                           1           0  0.64s           2023-05-28T15:33:58
+================================================================================
+[2023-05-28 15:34:25,425] {manager.py:684} INFO - Searching for files in /opt/airflow/dags
+[2023-05-28 15:34:25,449] {manager.py:687} INFO - There are 1 files in /opt/airflow/dags
+[2023-05-28 15:34:54,547] {manager.py:803} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/weather_forecast.py                           1           0  1.45s           2023-05-28T15:34:30
+================================================================================
+[2023-05-28 15:35:24,724] {manager.py:803} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/weather_forecast.py                           1           0  1.86s           2023-05-28T15:35:02
+================================================================================
+[2023-05-28 15:35:54,956] {manager.py:803} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/weather_forecast.py                           1           0  2.25s           2023-05-28T15:35:35
+================================================================================
+[2023-05-28 15:36:25,259] {manager.py:803} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/weather_forecast.py                           1           0  1.29s           2023-05-28T15:36:06
+================================================================================
+[2023-05-28 15:36:55,636] {manager.py:803} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/weather_forecast.py                           1           0  2.35s           2023-05-28T15:36:38
+================================================================================
+[2023-05-28 15:37:25,752] {manager.py:803} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/weather_forecast.py                           1           0  0.66s           2023-05-28T15:37:09
+================================================================================
+[2023-05-28 15:37:55,851] {manager.py:803} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/weather_forecast.py                           1           0  1.19s           2023-05-28T15:37:40
+================================================================================
+[2023-05-28 15:38:25,997] {manager.py:803} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/weather_forecast.py                           1           0  0.76s           2023-05-28T15:38:12
+================================================================================
+[2023-05-28 15:38:56,469] {manager.py:803} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/weather_forecast.py                           1           0  0.90s           2023-05-28T15:38:42
+================================================================================
+[2023-05-28 15:39:25,495] {manager.py:684} INFO - Searching for files in /opt/airflow/dags
+[2023-05-28 15:39:25,518] {manager.py:687} INFO - There are 1 files in /opt/airflow/dags
+[2023-05-28 15:39:26,565] {manager.py:803} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/weather_forecast.py                           1           0  0.91s           2023-05-28T15:39:14
+================================================================================
+[2023-05-28 15:39:56,684] {manager.py:803} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/weather_forecast.py                           1           0  0.94s           2023-05-28T15:39:45
+================================================================================
+[2023-05-28 15:40:26,958] {manager.py:803} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/weather_forecast.py                           0           1  0.29s           2023-05-28T15:40:26
+================================================================================
+[2023-05-28 15:40:56,988] {manager.py:803} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/weather_forecast.py                           1           0  0.99s           2023-05-28T15:40:54
+================================================================================
+[2023-05-28 15:41:27,302] {manager.py:803} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/weather_forecast.py                           1           0  1.07s           2023-05-28T15:41:06
+================================================================================
+[2023-05-28 15:41:57,467] {manager.py:803} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/weather_forecast.py                           1           0  1.35s           2023-05-28T15:41:37
+================================================================================
+[2023-05-28 15:42:27,989] {manager.py:803} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/weather_forecast.py                           1           0  2.30s           2023-05-28T15:42:10
+================================================================================
+[2023-05-28 15:42:58,116] {manager.py:803} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/weather_forecast.py                           1           0  0.89s           2023-05-28T15:42:41
+================================================================================
+[2023-05-28 15:43:28,848] {manager.py:803} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/weather_forecast.py                           1           0  0.70s           2023-05-28T15:43:25
+================================================================================
+[2023-05-28 15:43:59,180] {manager.py:803} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/weather_forecast.py                           1           0  1.23s           2023-05-28T15:43:57
+================================================================================
+[2023-05-28 15:44:26,320] {manager.py:684} INFO - Searching for files in /opt/airflow/dags
+[2023-05-28 15:44:26,402] {manager.py:687} INFO - There are 1 files in /opt/airflow/dags
+[2023-05-28 15:44:29,541] {manager.py:803} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/weather_forecast.py                           1           0  1.35s           2023-05-28T15:44:28
+================================================================================
+[2023-05-28 15:44:59,589] {manager.py:803} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/weather_forecast.py                           1           0  0.66s           2023-05-28T15:44:59
+================================================================================
+[2023-05-28 15:45:29,790] {manager.py:803} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/weather_forecast.py    910  0.01s             1           0  0.66s           2023-05-28T15:44:59
+================================================================================
+[2023-05-28 15:45:59,901] {manager.py:803} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/weather_forecast.py                           1           0  1.05s           2023-05-28T15:45:30
+================================================================================
+[2023-05-28 15:46:29,986] {manager.py:803} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/weather_forecast.py                           1           0  0.66s           2023-05-28T15:46:01
+================================================================================
+[2023-05-28 15:47:00,087] {manager.py:803} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/weather_forecast.py                           1           0  0.84s           2023-05-28T15:46:32
+================================================================================
+[2023-05-28 15:47:30,191] {manager.py:803} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/weather_forecast.py                           1           0  0.62s           2023-05-28T15:47:03
+================================================================================
+[2023-05-28 15:48:00,361] {manager.py:803} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/weather_forecast.py                           1           0  0.64s           2023-05-28T15:47:33
+================================================================================
+[2023-05-28 15:48:30,446] {manager.py:803} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/weather_forecast.py                           1           0  0.64s           2023-05-28T15:48:04
+================================================================================
+[2023-05-28 15:49:00,462] {manager.py:803} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/weather_forecast.py                           1           0  0.63s           2023-05-28T15:48:35
+================================================================================
+[2023-05-28 15:49:26,562] {manager.py:684} INFO - Searching for files in /opt/airflow/dags
+[2023-05-28 15:49:26,582] {manager.py:687} INFO - There are 1 files in /opt/airflow/dags
+[2023-05-28 15:49:30,612] {manager.py:803} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/weather_forecast.py                           1           0  1.18s           2023-05-28T15:49:06
+================================================================================
+[2023-05-28 15:50:00,852] {manager.py:803} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/weather_forecast.py                           1           0  1.05s           2023-05-28T15:49:37
+================================================================================
+[2023-05-28 15:50:30,992] {manager.py:803} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/weather_forecast.py                           1           0  1.91s           2023-05-28T15:50:09
+================================================================================
+[2023-05-28 15:51:01,123] {manager.py:803} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/weather_forecast.py                           1           0  1.33s           2023-05-28T15:50:40
+================================================================================
+[2023-05-28 15:51:31,500] {manager.py:803} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/weather_forecast.py                           0           1  0.11s           2023-05-28T15:51:29
+================================================================================
+[2023-05-28 15:52:01,780] {manager.py:803} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/weather_forecast.py                           1           0  1.46s           2023-05-28T15:51:33
+================================================================================
+[2023-05-28 15:52:31,882] {manager.py:803} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/weather_forecast.py                           1           0  1.59s           2023-05-28T15:52:04
+================================================================================
+[2023-05-28 15:53:01,992] {manager.py:803} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/weather_forecast.py                           1           0  0.80s           2023-05-28T15:52:35
+================================================================================
+[2023-05-28 15:53:32,072] {manager.py:803} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/weather_forecast.py                           1           0  0.99s           2023-05-28T15:53:06
+================================================================================
+[2023-05-28 15:54:02,627] {manager.py:803} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/weather_forecast.py                           1           0  0.84s           2023-05-28T15:53:37
+================================================================================
+[2023-05-28 15:54:26,723] {manager.py:684} INFO - Searching for files in /opt/airflow/dags
+[2023-05-28 15:54:26,749] {manager.py:687} INFO - There are 1 files in /opt/airflow/dags
+[2023-05-28 15:54:32,825] {manager.py:803} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/weather_forecast.py                           1           0  0.64s           2023-05-28T15:54:08
+================================================================================
+[2023-05-28 15:55:02,965] {manager.py:803} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/weather_forecast.py                           1           0  0.82s           2023-05-28T15:54:39
+================================================================================
+[2023-05-28 15:55:33,287] {manager.py:803} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/weather_forecast.py                           1           0  1.82s           2023-05-28T15:55:11
+================================================================================
+[2023-05-28 15:56:03,426] {manager.py:803} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/weather_forecast.py                           1           0  1.01s           2023-05-28T15:55:42
+================================================================================
+[2023-05-28 15:56:33,488] {manager.py:803} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/weather_forecast.py                           1           0  1.56s           2023-05-28T15:56:14
+================================================================================
+[2023-05-28 15:57:04,049] {manager.py:803} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/weather_forecast.py                           1           0  0.74s           2023-05-28T15:56:45
+================================================================================
+[2023-05-28 15:57:34,163] {manager.py:803} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/weather_forecast.py                           1           0  0.86s           2023-05-28T15:57:16
+================================================================================
+[2023-05-28 15:58:04,414] {manager.py:803} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/weather_forecast.py                           1           0  0.70s           2023-05-28T15:57:47
+================================================================================
+[2023-05-28 15:58:34,519] {manager.py:803} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/weather_forecast.py                           1           0  0.87s           2023-05-28T15:58:18
+================================================================================
+[2023-05-28 15:59:05,228] {manager.py:803} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/weather_forecast.py                           1           0  1.02s           2023-05-28T15:58:49
+================================================================================
+[2023-05-28 15:59:27,022] {manager.py:684} INFO - Searching for files in /opt/airflow/dags
+[2023-05-28 15:59:27,219] {manager.py:687} INFO - There are 1 files in /opt/airflow/dags
+[2023-05-28 15:59:35,456] {manager.py:803} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/weather_forecast.py                           1           0  0.65s           2023-05-28T15:59:19
+================================================================================
+[2023-05-28 16:00:05,979] {manager.py:803} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/weather_forecast.py                           1           0  3.82s           2023-05-28T16:00:04
+================================================================================
+[2023-05-28 16:00:36,182] {manager.py:803} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/weather_forecast.py                           1           0  0.84s           2023-05-28T16:00:22
+================================================================================
+[2023-05-28 16:01:06,546] {manager.py:803} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/weather_forecast.py                           1           0  1.62s           2023-05-28T16:00:53
+================================================================================
+[2023-05-28 16:01:36,644] {manager.py:803} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/weather_forecast.py                           1           0  0.65s           2023-05-28T16:01:24
+================================================================================
+[2023-05-28 16:02:06,833] {manager.py:803} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/weather_forecast.py                           1           0  0.62s           2023-05-28T16:01:55
+================================================================================
+[2023-05-28 16:02:37,497] {manager.py:803} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/weather_forecast.py                           1           0  1.13s           2023-05-28T16:02:26
+================================================================================
+[2023-05-28 16:03:07,751] {manager.py:803} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/weather_forecast.py                           1           0  0.63s           2023-05-28T16:02:57
+================================================================================
+[2023-05-28 16:03:37,870] {manager.py:803} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/weather_forecast.py                           1           0  1.71s           2023-05-28T16:03:29
+================================================================================
+[2023-05-28 16:04:08,363] {manager.py:803} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/weather_forecast.py                           1           0  1.59s           2023-05-28T16:04:00
+================================================================================
+[2023-05-28 16:04:27,482] {manager.py:684} INFO - Searching for files in /opt/airflow/dags
+[2023-05-28 16:04:27,525] {manager.py:687} INFO - There are 1 files in /opt/airflow/dags
+[2023-05-28 16:04:38,925] {manager.py:803} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/weather_forecast.py                           1           0  1.19s           2023-05-28T16:04:32
+================================================================================
+[2023-05-28 16:05:09,207] {manager.py:803} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/weather_forecast.py                           1           0  0.69s           2023-05-28T16:05:02
+================================================================================
+[2023-05-28 16:05:39,354] {manager.py:803} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/weather_forecast.py                           1           0  0.91s           2023-05-28T16:05:33
+================================================================================
+[2023-05-28 16:06:09,468] {manager.py:803} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/weather_forecast.py                           1           0  1.67s           2023-05-28T16:06:05
+================================================================================
+[2023-05-28 16:06:39,888] {manager.py:803} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/weather_forecast.py                           1           0  2.35s           2023-05-28T16:06:38
+================================================================================
+[2023-05-28 16:07:09,905] {manager.py:803} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/weather_forecast.py                           1           0  0.62s           2023-05-28T16:07:08
+================================================================================
+[2023-05-28 16:07:39,922] {manager.py:803} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/weather_forecast.py                           1           0  0.92s           2023-05-28T16:07:39
+================================================================================
+[2023-05-28 16:08:10,019] {manager.py:803} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/weather_forecast.py   1226  0.01s             1           0  0.92s           2023-05-28T16:07:39
+================================================================================
+[2023-05-28 16:08:40,600] {manager.py:803} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/weather_forecast.py                           1           0  0.65s           2023-05-28T16:08:10
+================================================================================
+[2023-05-28 16:09:10,916] {manager.py:803} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/weather_forecast.py                           1           0  1.43s           2023-05-28T16:08:42
+================================================================================
+[2023-05-28 16:09:27,717] {manager.py:684} INFO - Searching for files in /opt/airflow/dags
+[2023-05-28 16:09:27,770] {manager.py:687} INFO - There are 1 files in /opt/airflow/dags
+[2023-05-28 16:09:40,945] {manager.py:803} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/weather_forecast.py                           1           0  1.40s           2023-05-28T16:09:13
+================================================================================
+[2023-05-28 16:10:11,001] {manager.py:803} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/weather_forecast.py                           1           0  0.92s           2023-05-28T16:09:44
+================================================================================
+[2023-05-28 16:10:41,149] {manager.py:803} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/weather_forecast.py                           1           0  1.04s           2023-05-28T16:10:16
+================================================================================
+[2023-05-28 16:11:11,256] {manager.py:803} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/weather_forecast.py                           1           0  0.72s           2023-05-28T16:10:46
+================================================================================
+[2023-05-28 16:11:41,423] {manager.py:803} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/weather_forecast.py                           1           0  1.64s           2023-05-28T16:11:18
+================================================================================
+[2023-05-28 16:12:11,530] {manager.py:803} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/weather_forecast.py                           1           0  0.67s           2023-05-28T16:11:49
+================================================================================
+[2023-05-28 16:12:41,663] {manager.py:803} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/weather_forecast.py                           1           0  1.01s           2023-05-28T16:12:20
+================================================================================
+[2023-05-28 16:13:11,836] {manager.py:803} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/weather_forecast.py                           1           0  0.78s           2023-05-28T16:12:51
+================================================================================
+[2023-05-28 16:13:41,999] {manager.py:803} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/weather_forecast.py                           1           0  1.36s           2023-05-28T16:13:22
+================================================================================
+[2023-05-28 16:14:12,394] {manager.py:803} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/weather_forecast.py                           1           0  5.24s           2023-05-28T16:13:58
+================================================================================
+[2023-05-28 16:14:28,453] {manager.py:684} INFO - Searching for files in /opt/airflow/dags
+[2023-05-28 16:14:28,479] {manager.py:687} INFO - There are 1 files in /opt/airflow/dags
+[2023-05-28 16:14:42,573] {manager.py:803} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/weather_forecast.py                           1           0  1.55s           2023-05-28T16:14:24
+================================================================================
+[2023-05-28 16:15:12,755] {manager.py:803} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/weather_forecast.py                           1           0  0.71s           2023-05-28T16:14:55
+================================================================================
+[2023-05-28 16:15:42,848] {manager.py:803} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/weather_forecast.py                           1           0  0.71s           2023-05-28T16:15:33
+================================================================================
+[2023-05-28 16:16:12,967] {manager.py:803} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/weather_forecast.py                           1           0  0.93s           2023-05-28T16:15:59
+================================================================================
+[2023-05-28 16:16:43,599] {manager.py:803} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/weather_forecast.py                           1           0  1.17s           2023-05-28T16:16:27
+================================================================================
+[2023-05-28 16:17:13,837] {manager.py:803} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/weather_forecast.py                           1           0  0.68s           2023-05-28T16:16:58
+================================================================================
+[2023-05-28 16:17:43,887] {manager.py:803} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/weather_forecast.py                           1           0  1.46s           2023-05-28T16:17:25
+================================================================================
+[2023-05-28 16:18:14,094] {manager.py:803} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/weather_forecast.py                           1           0  0.87s           2023-05-28T16:17:56
+================================================================================
+[2023-05-28 16:18:44,588] {manager.py:803} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/weather_forecast.py                           1           0  0.76s           2023-05-28T16:18:27
+================================================================================
+[2023-05-28 16:19:14,933] {manager.py:803} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/weather_forecast.py                           1           0  0.88s           2023-05-28T16:19:00
+================================================================================
+[2023-05-28 16:19:29,033] {manager.py:684} INFO - Searching for files in /opt/airflow/dags
+[2023-05-28 16:19:29,089] {manager.py:687} INFO - There are 1 files in /opt/airflow/dags
+[2023-05-28 16:19:45,053] {manager.py:803} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/weather_forecast.py                           1           0  0.87s           2023-05-28T16:19:32
+================================================================================
+[2023-05-28 16:20:15,080] {manager.py:803} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/weather_forecast.py                           1           0  0.93s           2023-05-28T16:20:03
+================================================================================
+[2023-05-28 16:20:45,583] {manager.py:803} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/weather_forecast.py                           1           0  0.83s           2023-05-28T16:20:33
+================================================================================
+[2023-05-28 16:21:15,705] {manager.py:803} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/weather_forecast.py                           1           0  0.66s           2023-05-28T16:21:04
+================================================================================
+[2023-05-28 16:21:46,086] {manager.py:803} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/weather_forecast.py                           1           0  0.67s           2023-05-28T16:21:35
+================================================================================
+[2023-05-28 16:22:16,207] {manager.py:803} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/weather_forecast.py                           1           0  0.69s           2023-05-28T16:22:06
+================================================================================
+[2023-05-28 16:22:46,335] {manager.py:803} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/weather_forecast.py                           1           0  0.69s           2023-05-28T16:22:36
+================================================================================
+[2023-05-28 16:23:16,419] {manager.py:803} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/weather_forecast.py                           1           0  0.87s           2023-05-28T16:23:08
+================================================================================
+[2023-05-28 16:23:46,600] {manager.py:803} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/weather_forecast.py                           1           0  0.75s           2023-05-28T16:23:38
+================================================================================
+[2023-05-28 16:24:17,051] {manager.py:803} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/weather_forecast.py                           1           0  1.12s           2023-05-28T16:24:10
+================================================================================
+[2023-05-28 16:24:29,092] {manager.py:684} INFO - Searching for files in /opt/airflow/dags
+[2023-05-28 16:24:29,110] {manager.py:687} INFO - There are 1 files in /opt/airflow/dags
+[2023-05-28 16:24:47,392] {manager.py:803} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/weather_forecast.py                           1           0  5.37s           2023-05-28T16:24:45
+================================================================================
+[2023-05-28 16:25:17,755] {manager.py:803} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/weather_forecast.py                           1           0  1.85s           2023-05-28T16:25:17
+================================================================================
+[2023-05-28 16:25:48,119] {manager.py:803} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/weather_forecast.py   1476  0.16s             1           0  1.85s           2023-05-28T16:25:17
+================================================================================
+[2023-05-28 16:26:18,394] {manager.py:803} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/weather_forecast.py                           1           0  2.49s           2023-05-28T16:25:50
+================================================================================
+[2023-05-28 16:26:48,695] {manager.py:803} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/weather_forecast.py                           1           0  1.41s           2023-05-28T16:26:21
+================================================================================
+[2023-05-28 16:27:18,813] {manager.py:803} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/weather_forecast.py                           1           0  0.96s           2023-05-28T16:26:53
+================================================================================
+[2023-05-28 16:27:49,277] {manager.py:803} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/weather_forecast.py                           1           0  1.08s           2023-05-28T16:27:24
+================================================================================
+[2023-05-28 16:28:19,596] {manager.py:803} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/weather_forecast.py                           1           0  1.34s           2023-05-28T16:27:55
+================================================================================
+[2023-05-28 16:28:49,851] {manager.py:803} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/weather_forecast.py                           1           0  0.64s           2023-05-28T16:28:26
+================================================================================
+[2023-05-28 16:29:19,978] {manager.py:803} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/weather_forecast.py                           1           0  0.64s           2023-05-28T16:28:57
+================================================================================
+[2023-05-28 16:29:29,378] {manager.py:684} INFO - Searching for files in /opt/airflow/dags
+[2023-05-28 16:29:29,443] {manager.py:687} INFO - There are 1 files in /opt/airflow/dags
+[2023-05-28 16:29:50,522] {manager.py:803} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/weather_forecast.py                           1           0  1.41s           2023-05-28T16:29:28
+================================================================================
+[2023-05-28 16:30:20,528] {manager.py:803} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/weather_forecast.py                           1           0  0.74s           2023-05-28T16:29:59
+================================================================================
+[2023-05-28 16:30:29,630] {manager.py:919} ERROR - Processor for /opt/airflow/dags/weather_forecast.py exited with return code 1.
+[2023-05-28 16:30:50,655] {manager.py:803} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/weather_forecast.py                           0          -1  0.07s           2023-05-28T16:30:29
+================================================================================
+[2023-05-28 16:30:59,725] {manager.py:919} ERROR - Processor for /opt/airflow/dags/weather_forecast.py exited with return code 1.
+[2023-05-28 16:31:02,715] {manager.py:505} INFO - DAG hko_weather_forecast is missing and will be deactivated.
+[2023-05-28 16:31:02,731] {manager.py:515} INFO - Deactivated 1 DAGs which are no longer present in file.
+[2023-05-28 16:31:20,835] {manager.py:803} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/weather_forecast.py                           0          -1  0.03s           2023-05-28T16:30:59
+================================================================================
+[2023-05-28 16:31:51,082] {manager.py:1005} WARNING - Skipping processing of missing file: /opt/airflow/dags/weather_forecast.py
+[2023-05-28 16:31:51,087] {manager.py:803} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/weather_forecast.py                           1           0  0.73s           2023-05-28T16:31:30
+================================================================================
+[2023-05-28 16:31:51,661] {manager.py:1005} WARNING - Skipping processing of missing file: /opt/airflow/dags/weather_forecast.py
+[2023-05-28 16:31:52,096] {manager.py:1005} WARNING - Skipping processing of missing file: /opt/airflow/dags/weather_forecast.py
+[2023-05-28 16:31:52,688] {manager.py:1005} WARNING - Skipping processing of missing file: /opt/airflow/dags/weather_forecast.py
+[2023-05-28 16:31:53,115] {manager.py:1005} WARNING - Skipping processing of missing file: /opt/airflow/dags/weather_forecast.py
+[2023-05-28 16:31:53,722] {manager.py:1005} WARNING - Skipping processing of missing file: /opt/airflow/dags/weather_forecast.py
+[2023-05-28 16:31:54,129] {manager.py:1005} WARNING - Skipping processing of missing file: /opt/airflow/dags/weather_forecast.py
+[2023-05-28 16:31:54,749] {manager.py:1005} WARNING - Skipping processing of missing file: /opt/airflow/dags/weather_forecast.py
+[2023-05-28 16:31:55,191] {manager.py:1005} WARNING - Skipping processing of missing file: /opt/airflow/dags/weather_forecast.py
+[2023-05-28 16:31:55,759] {manager.py:1005} WARNING - Skipping processing of missing file: /opt/airflow/dags/weather_forecast.py
+[2023-05-28 16:31:56,214] {manager.py:1005} WARNING - Skipping processing of missing file: /opt/airflow/dags/weather_forecast.py
+[2023-05-28 16:31:56,768] {manager.py:1005} WARNING - Skipping processing of missing file: /opt/airflow/dags/weather_forecast.py
+[2023-05-28 16:31:57,273] {manager.py:1005} WARNING - Skipping processing of missing file: /opt/airflow/dags/weather_forecast.py
+[2023-05-28 16:31:57,778] {manager.py:1005} WARNING - Skipping processing of missing file: /opt/airflow/dags/weather_forecast.py
+[2023-05-28 16:31:58,307] {manager.py:1005} WARNING - Skipping processing of missing file: /opt/airflow/dags/weather_forecast.py
+[2023-05-28 16:31:58,786] {manager.py:1005} WARNING - Skipping processing of missing file: /opt/airflow/dags/weather_forecast.py
+[2023-05-28 16:31:59,315] {manager.py:1005} WARNING - Skipping processing of missing file: /opt/airflow/dags/weather_forecast.py
+[2023-05-28 16:31:59,794] {manager.py:1005} WARNING - Skipping processing of missing file: /opt/airflow/dags/weather_forecast.py
+[2023-05-28 16:32:00,322] {manager.py:1005} WARNING - Skipping processing of missing file: /opt/airflow/dags/weather_forecast.py
+[2023-05-28 16:32:00,804] {manager.py:1005} WARNING - Skipping processing of missing file: /opt/airflow/dags/weather_forecast.py
+[2023-05-28 16:32:01,331] {manager.py:1005} WARNING - Skipping processing of missing file: /opt/airflow/dags/weather_forecast.py
+[2023-05-28 16:32:01,811] {manager.py:1005} WARNING - Skipping processing of missing file: /opt/airflow/dags/weather_forecast.py
+[2023-05-28 16:32:02,338] {manager.py:1005} WARNING - Skipping processing of missing file: /opt/airflow/dags/weather_forecast.py
+[2023-05-28 16:32:02,825] {manager.py:1005} WARNING - Skipping processing of missing file: /opt/airflow/dags/weather_forecast.py
+[2023-05-28 16:32:03,347] {manager.py:1005} WARNING - Skipping processing of missing file: /opt/airflow/dags/weather_forecast.py
+[2023-05-28 16:32:03,836] {manager.py:1005} WARNING - Skipping processing of missing file: /opt/airflow/dags/weather_forecast.py
+[2023-05-28 16:32:04,355] {manager.py:1005} WARNING - Skipping processing of missing file: /opt/airflow/dags/weather_forecast.py
+[2023-05-28 16:32:04,845] {manager.py:1005} WARNING - Skipping processing of missing file: /opt/airflow/dags/weather_forecast.py
+[2023-05-28 16:32:05,376] {manager.py:1005} WARNING - Skipping processing of missing file: /opt/airflow/dags/weather_forecast.py
+[2023-05-28 16:32:05,854] {manager.py:1005} WARNING - Skipping processing of missing file: /opt/airflow/dags/weather_forecast.py
+[2023-05-28 16:32:06,412] {manager.py:1005} WARNING - Skipping processing of missing file: /opt/airflow/dags/weather_forecast.py
+[2023-05-28 16:32:06,915] {manager.py:1005} WARNING - Skipping processing of missing file: /opt/airflow/dags/weather_forecast.py
+[2023-05-28 16:32:07,422] {manager.py:1005} WARNING - Skipping processing of missing file: /opt/airflow/dags/weather_forecast.py
+[2023-05-28 16:32:07,963] {manager.py:1005} WARNING - Skipping processing of missing file: /opt/airflow/dags/weather_forecast.py
+[2023-05-28 16:32:08,436] {manager.py:1005} WARNING - Skipping processing of missing file: /opt/airflow/dags/weather_forecast.py
+[2023-05-28 16:32:08,993] {manager.py:1005} WARNING - Skipping processing of missing file: /opt/airflow/dags/weather_forecast.py
+[2023-05-28 16:32:09,450] {manager.py:1005} WARNING - Skipping processing of missing file: /opt/airflow/dags/weather_forecast.py
+[2023-05-28 16:32:10,012] {manager.py:1005} WARNING - Skipping processing of missing file: /opt/airflow/dags/weather_forecast.py
+[2023-05-28 16:32:10,493] {manager.py:1005} WARNING - Skipping processing of missing file: /opt/airflow/dags/weather_forecast.py
+[2023-05-28 16:32:11,019] {manager.py:1005} WARNING - Skipping processing of missing file: /opt/airflow/dags/weather_forecast.py
+[2023-05-28 16:32:11,511] {manager.py:1005} WARNING - Skipping processing of missing file: /opt/airflow/dags/weather_forecast.py
+[2023-05-28 16:32:12,031] {manager.py:1005} WARNING - Skipping processing of missing file: /opt/airflow/dags/weather_forecast.py
+[2023-05-28 16:32:12,522] {manager.py:1005} WARNING - Skipping processing of missing file: /opt/airflow/dags/weather_forecast.py
+[2023-05-28 16:32:13,043] {manager.py:1005} WARNING - Skipping processing of missing file: /opt/airflow/dags/weather_forecast.py
+[2023-05-28 16:32:13,534] {manager.py:1005} WARNING - Skipping processing of missing file: /opt/airflow/dags/weather_forecast.py
+[2023-05-28 16:32:14,052] {manager.py:1005} WARNING - Skipping processing of missing file: /opt/airflow/dags/weather_forecast.py
+[2023-05-28 16:32:14,542] {manager.py:1005} WARNING - Skipping processing of missing file: /opt/airflow/dags/weather_forecast.py
+[2023-05-28 16:32:15,063] {manager.py:1005} WARNING - Skipping processing of missing file: /opt/airflow/dags/weather_forecast.py
+[2023-05-28 16:32:15,552] {manager.py:1005} WARNING - Skipping processing of missing file: /opt/airflow/dags/weather_forecast.py
+[2023-05-28 16:32:16,071] {manager.py:1005} WARNING - Skipping processing of missing file: /opt/airflow/dags/weather_forecast.py
+[2023-05-28 16:32:16,565] {manager.py:1005} WARNING - Skipping processing of missing file: /opt/airflow/dags/weather_forecast.py
+[2023-05-28 16:32:17,078] {manager.py:1005} WARNING - Skipping processing of missing file: /opt/airflow/dags/weather_forecast.py
+[2023-05-28 16:32:17,572] {manager.py:1005} WARNING - Skipping processing of missing file: /opt/airflow/dags/weather_forecast.py
+[2023-05-28 16:32:18,090] {manager.py:1005} WARNING - Skipping processing of missing file: /opt/airflow/dags/weather_forecast.py
+[2023-05-28 16:32:18,585] {manager.py:1005} WARNING - Skipping processing of missing file: /opt/airflow/dags/weather_forecast.py
+[2023-05-28 16:32:19,105] {manager.py:1005} WARNING - Skipping processing of missing file: /opt/airflow/dags/weather_forecast.py
+[2023-05-28 16:32:19,602] {manager.py:1005} WARNING - Skipping processing of missing file: /opt/airflow/dags/weather_forecast.py
+[2023-05-28 16:32:20,134] {manager.py:1005} WARNING - Skipping processing of missing file: /opt/airflow/dags/weather_forecast.py
+[2023-05-28 16:32:20,614] {manager.py:1005} WARNING - Skipping processing of missing file: /opt/airflow/dags/weather_forecast.py
+[2023-05-28 16:32:21,142] {manager.py:1005} WARNING - Skipping processing of missing file: /opt/airflow/dags/weather_forecast.py
+[2023-05-28 16:32:21,151] {manager.py:803} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/weather_forecast.py                           1           0  0.73s           2023-05-28T16:31:30
+================================================================================
+[2023-05-28 16:32:21,632] {manager.py:1005} WARNING - Skipping processing of missing file: /opt/airflow/dags/weather_forecast.py
+[2023-05-28 16:32:22,161] {manager.py:1005} WARNING - Skipping processing of missing file: /opt/airflow/dags/weather_forecast.py
+[2023-05-28 16:32:22,643] {manager.py:1005} WARNING - Skipping processing of missing file: /opt/airflow/dags/weather_forecast.py
+[2023-05-28 16:32:23,167] {manager.py:1005} WARNING - Skipping processing of missing file: /opt/airflow/dags/weather_forecast.py
+[2023-05-28 16:32:23,694] {manager.py:1005} WARNING - Skipping processing of missing file: /opt/airflow/dags/weather_forecast.py
+[2023-05-28 16:32:24,348] {manager.py:1005} WARNING - Skipping processing of missing file: /opt/airflow/dags/weather_forecast.py
+[2023-05-28 16:32:25,227] {manager.py:1005} WARNING - Skipping processing of missing file: /opt/airflow/dags/weather_forecast.py
+[2023-05-28 16:32:25,420] {manager.py:1005} WARNING - Skipping processing of missing file: /opt/airflow/dags/weather_forecast.py
+[2023-05-28 16:32:26,246] {manager.py:1005} WARNING - Skipping processing of missing file: /opt/airflow/dags/weather_forecast.py
+[2023-05-28 16:32:26,432] {manager.py:1005} WARNING - Skipping processing of missing file: /opt/airflow/dags/weather_forecast.py
+[2023-05-28 16:32:27,276] {manager.py:1005} WARNING - Skipping processing of missing file: /opt/airflow/dags/weather_forecast.py
+[2023-05-28 16:32:27,446] {manager.py:1005} WARNING - Skipping processing of missing file: /opt/airflow/dags/weather_forecast.py
+[2023-05-28 16:32:28,287] {manager.py:1005} WARNING - Skipping processing of missing file: /opt/airflow/dags/weather_forecast.py
+[2023-05-28 16:32:28,462] {manager.py:1005} WARNING - Skipping processing of missing file: /opt/airflow/dags/weather_forecast.py
+[2023-05-28 16:32:29,296] {manager.py:1005} WARNING - Skipping processing of missing file: /opt/airflow/dags/weather_forecast.py
+[2023-05-28 16:32:29,468] {manager.py:1005} WARNING - Skipping processing of missing file: /opt/airflow/dags/weather_forecast.py
+[2023-05-28 16:32:30,306] {manager.py:1005} WARNING - Skipping processing of missing file: /opt/airflow/dags/weather_forecast.py
+[2023-05-28 16:32:30,476] {manager.py:1005} WARNING - Skipping processing of missing file: /opt/airflow/dags/weather_forecast.py
+[2023-05-28 16:32:31,316] {manager.py:1005} WARNING - Skipping processing of missing file: /opt/airflow/dags/weather_forecast.py
+[2023-05-28 16:32:31,484] {manager.py:1005} WARNING - Skipping processing of missing file: /opt/airflow/dags/weather_forecast.py
+[2023-05-28 16:32:32,325] {manager.py:1005} WARNING - Skipping processing of missing file: /opt/airflow/dags/weather_forecast.py
+[2023-05-28 16:32:32,492] {manager.py:1005} WARNING - Skipping processing of missing file: /opt/airflow/dags/weather_forecast.py
+[2023-05-28 16:32:33,332] {manager.py:1005} WARNING - Skipping processing of missing file: /opt/airflow/dags/weather_forecast.py
+[2023-05-28 16:32:33,500] {manager.py:1005} WARNING - Skipping processing of missing file: /opt/airflow/dags/weather_forecast.py
+[2023-05-28 16:32:34,340] {manager.py:1005} WARNING - Skipping processing of missing file: /opt/airflow/dags/weather_forecast.py
+[2023-05-28 16:32:34,510] {manager.py:1005} WARNING - Skipping processing of missing file: /opt/airflow/dags/weather_forecast.py
+[2023-05-28 16:32:35,349] {manager.py:1005} WARNING - Skipping processing of missing file: /opt/airflow/dags/weather_forecast.py
+[2023-05-28 16:32:35,518] {manager.py:1005} WARNING - Skipping processing of missing file: /opt/airflow/dags/weather_forecast.py
+[2023-05-28 16:32:36,358] {manager.py:1005} WARNING - Skipping processing of missing file: /opt/airflow/dags/weather_forecast.py
+[2023-05-28 16:32:36,529] {manager.py:1005} WARNING - Skipping processing of missing file: /opt/airflow/dags/weather_forecast.py
+[2023-05-28 16:32:37,368] {manager.py:1005} WARNING - Skipping processing of missing file: /opt/airflow/dags/weather_forecast.py
+[2023-05-28 16:32:37,536] {manager.py:1005} WARNING - Skipping processing of missing file: /opt/airflow/dags/weather_forecast.py
+[2023-05-28 16:32:38,400] {manager.py:1005} WARNING - Skipping processing of missing file: /opt/airflow/dags/weather_forecast.py
+[2023-05-28 16:32:38,545] {manager.py:1005} WARNING - Skipping processing of missing file: /opt/airflow/dags/weather_forecast.py
+[2023-05-28 16:32:39,406] {manager.py:1005} WARNING - Skipping processing of missing file: /opt/airflow/dags/weather_forecast.py
+[2023-05-28 16:32:39,556] {manager.py:1005} WARNING - Skipping processing of missing file: /opt/airflow/dags/weather_forecast.py
+[2023-05-28 16:32:40,414] {manager.py:1005} WARNING - Skipping processing of missing file: /opt/airflow/dags/weather_forecast.py
+[2023-05-28 16:32:40,566] {manager.py:1005} WARNING - Skipping processing of missing file: /opt/airflow/dags/weather_forecast.py
+[2023-05-28 16:32:41,432] {manager.py:1005} WARNING - Skipping processing of missing file: /opt/airflow/dags/weather_forecast.py
+[2023-05-28 16:32:41,573] {manager.py:1005} WARNING - Skipping processing of missing file: /opt/airflow/dags/weather_forecast.py
+[2023-05-28 16:32:42,451] {manager.py:1005} WARNING - Skipping processing of missing file: /opt/airflow/dags/weather_forecast.py
+[2023-05-28 16:32:42,585] {manager.py:1005} WARNING - Skipping processing of missing file: /opt/airflow/dags/weather_forecast.py
+[2023-05-28 16:32:43,460] {manager.py:1005} WARNING - Skipping processing of missing file: /opt/airflow/dags/weather_forecast.py
+[2023-05-28 16:32:43,594] {manager.py:1005} WARNING - Skipping processing of missing file: /opt/airflow/dags/weather_forecast.py
+[2023-05-28 16:32:44,469] {manager.py:1005} WARNING - Skipping processing of missing file: /opt/airflow/dags/weather_forecast.py
+[2023-05-28 16:32:44,603] {manager.py:1005} WARNING - Skipping processing of missing file: /opt/airflow/dags/weather_forecast.py
+[2023-05-28 16:32:45,479] {manager.py:1005} WARNING - Skipping processing of missing file: /opt/airflow/dags/weather_forecast.py
+[2023-05-28 16:32:45,612] {manager.py:1005} WARNING - Skipping processing of missing file: /opt/airflow/dags/weather_forecast.py
+[2023-05-28 16:32:46,486] {manager.py:1005} WARNING - Skipping processing of missing file: /opt/airflow/dags/weather_forecast.py
+[2023-05-28 16:32:46,623] {manager.py:1005} WARNING - Skipping processing of missing file: /opt/airflow/dags/weather_forecast.py
+[2023-05-28 16:32:47,494] {manager.py:1005} WARNING - Skipping processing of missing file: /opt/airflow/dags/weather_forecast.py
+[2023-05-28 16:32:47,630] {manager.py:1005} WARNING - Skipping processing of missing file: /opt/airflow/dags/weather_forecast.py
+[2023-05-28 16:32:48,501] {manager.py:1005} WARNING - Skipping processing of missing file: /opt/airflow/dags/weather_forecast.py
+[2023-05-28 16:32:48,636] {manager.py:1005} WARNING - Skipping processing of missing file: /opt/airflow/dags/weather_forecast.py
+[2023-05-28 16:32:49,508] {manager.py:1005} WARNING - Skipping processing of missing file: /opt/airflow/dags/weather_forecast.py
+[2023-05-28 16:32:49,645] {manager.py:1005} WARNING - Skipping processing of missing file: /opt/airflow/dags/weather_forecast.py
+[2023-05-28 16:32:50,523] {manager.py:1005} WARNING - Skipping processing of missing file: /opt/airflow/dags/weather_forecast.py
+[2023-05-28 16:32:50,657] {manager.py:1005} WARNING - Skipping processing of missing file: /opt/airflow/dags/weather_forecast.py
+[2023-05-28 16:32:51,544] {manager.py:1005} WARNING - Skipping processing of missing file: /opt/airflow/dags/weather_forecast.py
+[2023-05-28 16:32:51,548] {manager.py:803} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/weather_forecast.py                           1           0  0.73s           2023-05-28T16:31:30
+================================================================================
+[2023-05-28 16:32:51,678] {manager.py:1005} WARNING - Skipping processing of missing file: /opt/airflow/dags/weather_forecast.py
+[2023-05-28 16:32:52,555] {manager.py:1005} WARNING - Skipping processing of missing file: /opt/airflow/dags/weather_forecast.py
+[2023-05-28 16:32:52,685] {manager.py:1005} WARNING - Skipping processing of missing file: /opt/airflow/dags/weather_forecast.py
+[2023-05-28 16:32:53,566] {manager.py:1005} WARNING - Skipping processing of missing file: /opt/airflow/dags/weather_forecast.py
+[2023-05-28 16:32:53,692] {manager.py:1005} WARNING - Skipping processing of missing file: /opt/airflow/dags/weather_forecast.py
+[2023-05-28 16:32:54,576] {manager.py:1005} WARNING - Skipping processing of missing file: /opt/airflow/dags/weather_forecast.py
+[2023-05-28 16:32:54,709] {manager.py:1005} WARNING - Skipping processing of missing file: /opt/airflow/dags/weather_forecast.py
+[2023-05-28 16:32:55,585] {manager.py:1005} WARNING - Skipping processing of missing file: /opt/airflow/dags/weather_forecast.py
+[2023-05-28 16:32:55,728] {manager.py:1005} WARNING - Skipping processing of missing file: /opt/airflow/dags/weather_forecast.py
+[2023-05-28 16:32:56,598] {manager.py:1005} WARNING - Skipping processing of missing file: /opt/airflow/dags/weather_forecast.py
+[2023-05-28 16:32:56,753] {manager.py:1005} WARNING - Skipping processing of missing file: /opt/airflow/dags/weather_forecast.py
+[2023-05-28 16:32:57,608] {manager.py:1005} WARNING - Skipping processing of missing file: /opt/airflow/dags/weather_forecast.py
+[2023-05-28 16:32:57,767] {manager.py:1005} WARNING - Skipping processing of missing file: /opt/airflow/dags/weather_forecast.py
+[2023-05-28 16:32:58,622] {manager.py:1005} WARNING - Skipping processing of missing file: /opt/airflow/dags/weather_forecast.py
+[2023-05-28 16:32:58,775] {manager.py:1005} WARNING - Skipping processing of missing file: /opt/airflow/dags/weather_forecast.py
+[2023-05-28 16:32:59,631] {manager.py:1005} WARNING - Skipping processing of missing file: /opt/airflow/dags/weather_forecast.py
+[2023-05-28 16:32:59,787] {manager.py:1005} WARNING - Skipping processing of missing file: /opt/airflow/dags/weather_forecast.py
+[2023-05-28 16:33:00,638] {manager.py:1005} WARNING - Skipping processing of missing file: /opt/airflow/dags/weather_forecast.py
+[2023-05-28 16:33:00,796] {manager.py:1005} WARNING - Skipping processing of missing file: /opt/airflow/dags/weather_forecast.py
+[2023-05-28 16:33:01,651] {manager.py:1005} WARNING - Skipping processing of missing file: /opt/airflow/dags/weather_forecast.py
+[2023-05-28 16:33:01,804] {manager.py:1005} WARNING - Skipping processing of missing file: /opt/airflow/dags/weather_forecast.py
+[2023-05-28 16:33:02,660] {manager.py:1005} WARNING - Skipping processing of missing file: /opt/airflow/dags/weather_forecast.py
+[2023-05-28 16:33:02,823] {manager.py:1005} WARNING - Skipping processing of missing file: /opt/airflow/dags/weather_forecast.py
+[2023-05-28 16:33:03,690] {manager.py:1005} WARNING - Skipping processing of missing file: /opt/airflow/dags/weather_forecast.py
+[2023-05-28 16:33:03,878] {manager.py:1005} WARNING - Skipping processing of missing file: /opt/airflow/dags/weather_forecast.py
+[2023-05-28 16:33:04,731] {manager.py:1005} WARNING - Skipping processing of missing file: /opt/airflow/dags/weather_forecast.py
+[2023-05-28 16:33:04,914] {manager.py:1005} WARNING - Skipping processing of missing file: /opt/airflow/dags/weather_forecast.py
+[2023-05-28 16:33:05,740] {manager.py:1005} WARNING - Skipping processing of missing file: /opt/airflow/dags/weather_forecast.py
+[2023-05-28 16:33:05,922] {manager.py:1005} WARNING - Skipping processing of missing file: /opt/airflow/dags/weather_forecast.py
+[2023-05-28 16:33:06,817] {manager.py:1005} WARNING - Skipping processing of missing file: /opt/airflow/dags/weather_forecast.py
+[2023-05-28 16:33:06,930] {manager.py:1005} WARNING - Skipping processing of missing file: /opt/airflow/dags/weather_forecast.py
+[2023-05-28 16:33:07,860] {manager.py:1005} WARNING - Skipping processing of missing file: /opt/airflow/dags/weather_forecast.py
+[2023-05-28 16:33:07,946] {manager.py:1005} WARNING - Skipping processing of missing file: /opt/airflow/dags/weather_forecast.py
+[2023-05-28 16:33:08,880] {manager.py:1005} WARNING - Skipping processing of missing file: /opt/airflow/dags/weather_forecast.py
+[2023-05-28 16:33:08,957] {manager.py:1005} WARNING - Skipping processing of missing file: /opt/airflow/dags/weather_forecast.py
+[2023-05-28 16:33:09,899] {manager.py:1005} WARNING - Skipping processing of missing file: /opt/airflow/dags/weather_forecast.py
+[2023-05-28 16:33:09,965] {manager.py:1005} WARNING - Skipping processing of missing file: /opt/airflow/dags/weather_forecast.py
+[2023-05-28 16:33:10,919] {manager.py:1005} WARNING - Skipping processing of missing file: /opt/airflow/dags/weather_forecast.py
+[2023-05-28 16:33:10,987] {manager.py:1005} WARNING - Skipping processing of missing file: /opt/airflow/dags/weather_forecast.py
+[2023-05-28 16:33:11,956] {manager.py:1005} WARNING - Skipping processing of missing file: /opt/airflow/dags/weather_forecast.py
+[2023-05-28 16:33:12,010] {manager.py:1005} WARNING - Skipping processing of missing file: /opt/airflow/dags/weather_forecast.py
+[2023-05-28 16:33:12,986] {manager.py:1005} WARNING - Skipping processing of missing file: /opt/airflow/dags/weather_forecast.py
+[2023-05-28 16:33:13,045] {manager.py:1005} WARNING - Skipping processing of missing file: /opt/airflow/dags/weather_forecast.py
+[2023-05-28 16:33:13,998] {manager.py:1005} WARNING - Skipping processing of missing file: /opt/airflow/dags/weather_forecast.py
+[2023-05-28 16:33:14,061] {manager.py:1005} WARNING - Skipping processing of missing file: /opt/airflow/dags/weather_forecast.py
+[2023-05-28 16:33:15,007] {manager.py:1005} WARNING - Skipping processing of missing file: /opt/airflow/dags/weather_forecast.py
+[2023-05-28 16:33:15,068] {manager.py:1005} WARNING - Skipping processing of missing file: /opt/airflow/dags/weather_forecast.py
+[2023-05-28 16:33:16,015] {manager.py:1005} WARNING - Skipping processing of missing file: /opt/airflow/dags/weather_forecast.py
+[2023-05-28 16:33:16,081] {manager.py:1005} WARNING - Skipping processing of missing file: /opt/airflow/dags/weather_forecast.py
+[2023-05-28 16:33:17,065] {manager.py:1005} WARNING - Skipping processing of missing file: /opt/airflow/dags/weather_forecast.py
+[2023-05-28 16:33:17,112] {manager.py:1005} WARNING - Skipping processing of missing file: /opt/airflow/dags/weather_forecast.py
+[2023-05-28 16:33:18,102] {manager.py:1005} WARNING - Skipping processing of missing file: /opt/airflow/dags/weather_forecast.py
+[2023-05-28 16:33:18,134] {manager.py:1005} WARNING - Skipping processing of missing file: /opt/airflow/dags/weather_forecast.py
+[2023-05-28 16:33:19,123] {manager.py:1005} WARNING - Skipping processing of missing file: /opt/airflow/dags/weather_forecast.py
+[2023-05-28 16:33:19,158] {manager.py:1005} WARNING - Skipping processing of missing file: /opt/airflow/dags/weather_forecast.py
+[2023-05-28 16:33:20,133] {manager.py:1005} WARNING - Skipping processing of missing file: /opt/airflow/dags/weather_forecast.py
+[2023-05-28 16:33:20,171] {manager.py:1005} WARNING - Skipping processing of missing file: /opt/airflow/dags/weather_forecast.py
+[2023-05-28 16:33:21,154] {manager.py:1005} WARNING - Skipping processing of missing file: /opt/airflow/dags/weather_forecast.py
+[2023-05-28 16:33:21,193] {manager.py:1005} WARNING - Skipping processing of missing file: /opt/airflow/dags/weather_forecast.py
+[2023-05-28 16:33:22,169] {manager.py:1005} WARNING - Skipping processing of missing file: /opt/airflow/dags/weather_forecast.py
+[2023-05-28 16:33:22,175] {manager.py:803} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/weather_forecast.py                           1           0  0.73s           2023-05-28T16:31:30
+================================================================================
+[2023-05-28 16:33:22,208] {manager.py:1005} WARNING - Skipping processing of missing file: /opt/airflow/dags/weather_forecast.py
+[2023-05-28 16:33:23,186] {manager.py:1005} WARNING - Skipping processing of missing file: /opt/airflow/dags/weather_forecast.py
+[2023-05-28 16:33:23,217] {manager.py:1005} WARNING - Skipping processing of missing file: /opt/airflow/dags/weather_forecast.py
+[2023-05-28 16:33:24,195] {manager.py:1005} WARNING - Skipping processing of missing file: /opt/airflow/dags/weather_forecast.py
+[2023-05-28 16:33:24,228] {manager.py:1005} WARNING - Skipping processing of missing file: /opt/airflow/dags/weather_forecast.py
+[2023-05-28 16:33:25,213] {manager.py:1005} WARNING - Skipping processing of missing file: /opt/airflow/dags/weather_forecast.py
+[2023-05-28 16:33:25,242] {manager.py:1005} WARNING - Skipping processing of missing file: /opt/airflow/dags/weather_forecast.py
+[2023-05-28 16:33:26,228] {manager.py:1005} WARNING - Skipping processing of missing file: /opt/airflow/dags/weather_forecast.py
+[2023-05-28 16:33:26,255] {manager.py:1005} WARNING - Skipping processing of missing file: /opt/airflow/dags/weather_forecast.py
+[2023-05-28 16:33:27,253] {manager.py:1005} WARNING - Skipping processing of missing file: /opt/airflow/dags/weather_forecast.py
+[2023-05-28 16:33:27,273] {manager.py:1005} WARNING - Skipping processing of missing file: /opt/airflow/dags/weather_forecast.py
+[2023-05-28 16:33:28,267] {manager.py:1005} WARNING - Skipping processing of missing file: /opt/airflow/dags/weather_forecast.py
+[2023-05-28 16:33:28,281] {manager.py:1005} WARNING - Skipping processing of missing file: /opt/airflow/dags/weather_forecast.py
+[2023-05-28 16:33:29,281] {manager.py:1005} WARNING - Skipping processing of missing file: /opt/airflow/dags/weather_forecast.py
+[2023-05-28 16:33:29,292] {manager.py:1005} WARNING - Skipping processing of missing file: /opt/airflow/dags/weather_forecast.py
+[2023-05-28 16:33:30,340] {manager.py:1005} WARNING - Skipping processing of missing file: /opt/airflow/dags/weather_forecast.py
+[2023-05-28 16:33:30,352] {manager.py:1005} WARNING - Skipping processing of missing file: /opt/airflow/dags/weather_forecast.py
+[2023-05-28 16:33:31,393] {manager.py:1005} WARNING - Skipping processing of missing file: /opt/airflow/dags/weather_forecast.py
+[2023-05-28 16:33:31,449] {manager.py:1005} WARNING - Skipping processing of missing file: /opt/airflow/dags/weather_forecast.py
+[2023-05-28 16:33:32,619] {manager.py:1005} WARNING - Skipping processing of missing file: /opt/airflow/dags/weather_forecast.py
+[2023-05-28 16:33:32,662] {manager.py:1005} WARNING - Skipping processing of missing file: /opt/airflow/dags/weather_forecast.py
+[2023-05-28 16:33:33,677] {manager.py:1005} WARNING - Skipping processing of missing file: /opt/airflow/dags/weather_forecast.py
+[2023-05-28 16:33:33,708] {manager.py:1005} WARNING - Skipping processing of missing file: /opt/airflow/dags/weather_forecast.py
+[2023-05-28 16:33:34,711] {manager.py:1005} WARNING - Skipping processing of missing file: /opt/airflow/dags/weather_forecast.py
+[2023-05-28 16:33:34,748] {manager.py:1005} WARNING - Skipping processing of missing file: /opt/airflow/dags/weather_forecast.py
+[2023-05-28 16:33:35,745] {manager.py:1005} WARNING - Skipping processing of missing file: /opt/airflow/dags/weather_forecast.py
+[2023-05-28 16:33:35,803] {manager.py:1005} WARNING - Skipping processing of missing file: /opt/airflow/dags/weather_forecast.py
+[2023-05-28 16:33:36,777] {manager.py:1005} WARNING - Skipping processing of missing file: /opt/airflow/dags/weather_forecast.py
+[2023-05-28 16:33:36,875] {manager.py:1005} WARNING - Skipping processing of missing file: /opt/airflow/dags/weather_forecast.py
+[2023-05-28 16:33:37,796] {manager.py:1005} WARNING - Skipping processing of missing file: /opt/airflow/dags/weather_forecast.py
+[2023-05-28 16:33:37,900] {manager.py:1005} WARNING - Skipping processing of missing file: /opt/airflow/dags/weather_forecast.py
+[2023-05-28 16:33:38,810] {manager.py:1005} WARNING - Skipping processing of missing file: /opt/airflow/dags/weather_forecast.py
+[2023-05-28 16:33:38,926] {manager.py:1005} WARNING - Skipping processing of missing file: /opt/airflow/dags/weather_forecast.py
+[2023-05-28 16:33:39,819] {manager.py:1005} WARNING - Skipping processing of missing file: /opt/airflow/dags/weather_forecast.py
+[2023-05-28 16:33:39,935] {manager.py:1005} WARNING - Skipping processing of missing file: /opt/airflow/dags/weather_forecast.py
+[2023-05-28 16:33:40,833] {manager.py:1005} WARNING - Skipping processing of missing file: /opt/airflow/dags/weather_forecast.py
+[2023-05-28 16:33:40,949] {manager.py:1005} WARNING - Skipping processing of missing file: /opt/airflow/dags/weather_forecast.py
+[2023-05-28 16:33:41,847] {manager.py:1005} WARNING - Skipping processing of missing file: /opt/airflow/dags/weather_forecast.py
+[2023-05-28 16:33:41,965] {manager.py:1005} WARNING - Skipping processing of missing file: /opt/airflow/dags/weather_forecast.py
+[2023-05-28 16:33:42,862] {manager.py:1005} WARNING - Skipping processing of missing file: /opt/airflow/dags/weather_forecast.py
+[2023-05-28 16:33:42,976] {manager.py:1005} WARNING - Skipping processing of missing file: /opt/airflow/dags/weather_forecast.py
+[2023-05-28 16:33:43,869] {manager.py:1005} WARNING - Skipping processing of missing file: /opt/airflow/dags/weather_forecast.py
+[2023-05-28 16:33:43,983] {manager.py:1005} WARNING - Skipping processing of missing file: /opt/airflow/dags/weather_forecast.py
+[2023-05-28 16:33:44,876] {manager.py:1005} WARNING - Skipping processing of missing file: /opt/airflow/dags/weather_forecast.py
+[2023-05-28 16:33:44,991] {manager.py:1005} WARNING - Skipping processing of missing file: /opt/airflow/dags/weather_forecast.py
+[2023-05-28 16:33:45,884] {manager.py:1005} WARNING - Skipping processing of missing file: /opt/airflow/dags/weather_forecast.py
+[2023-05-28 16:33:46,000] {manager.py:1005} WARNING - Skipping processing of missing file: /opt/airflow/dags/weather_forecast.py
+[2023-05-28 16:33:46,892] {manager.py:1005} WARNING - Skipping processing of missing file: /opt/airflow/dags/weather_forecast.py
+[2023-05-28 16:33:47,008] {manager.py:1005} WARNING - Skipping processing of missing file: /opt/airflow/dags/weather_forecast.py
+[2023-05-28 16:33:47,901] {manager.py:1005} WARNING - Skipping processing of missing file: /opt/airflow/dags/weather_forecast.py
+[2023-05-28 16:33:48,016] {manager.py:1005} WARNING - Skipping processing of missing file: /opt/airflow/dags/weather_forecast.py
+[2023-05-28 16:33:48,909] {manager.py:1005} WARNING - Skipping processing of missing file: /opt/airflow/dags/weather_forecast.py
+[2023-05-28 16:33:49,023] {manager.py:1005} WARNING - Skipping processing of missing file: /opt/airflow/dags/weather_forecast.py
+[2023-05-28 16:33:49,916] {manager.py:1005} WARNING - Skipping processing of missing file: /opt/airflow/dags/weather_forecast.py
+[2023-05-28 16:33:50,053] {manager.py:1005} WARNING - Skipping processing of missing file: /opt/airflow/dags/weather_forecast.py
+[2023-05-28 16:33:50,923] {manager.py:1005} WARNING - Skipping processing of missing file: /opt/airflow/dags/weather_forecast.py
+[2023-05-28 16:33:51,079] {manager.py:1005} WARNING - Skipping processing of missing file: /opt/airflow/dags/weather_forecast.py
+[2023-05-28 16:33:51,935] {manager.py:1005} WARNING - Skipping processing of missing file: /opt/airflow/dags/weather_forecast.py
+[2023-05-28 16:33:52,100] {manager.py:1005} WARNING - Skipping processing of missing file: /opt/airflow/dags/weather_forecast.py
+[2023-05-28 16:33:52,954] {manager.py:1005} WARNING - Skipping processing of missing file: /opt/airflow/dags/weather_forecast.py
+[2023-05-28 16:33:52,972] {manager.py:803} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/weather_forecast.py                           1           0  0.73s           2023-05-28T16:31:30
+================================================================================
+[2023-05-28 16:33:53,108] {manager.py:1005} WARNING - Skipping processing of missing file: /opt/airflow/dags/weather_forecast.py
+[2023-05-28 16:33:53,989] {manager.py:1005} WARNING - Skipping processing of missing file: /opt/airflow/dags/weather_forecast.py
+[2023-05-28 16:33:54,123] {manager.py:1005} WARNING - Skipping processing of missing file: /opt/airflow/dags/weather_forecast.py
+[2023-05-28 16:33:55,006] {manager.py:1005} WARNING - Skipping processing of missing file: /opt/airflow/dags/weather_forecast.py
+[2023-05-28 16:33:55,131] {manager.py:1005} WARNING - Skipping processing of missing file: /opt/airflow/dags/weather_forecast.py
+[2023-05-28 16:33:56,017] {manager.py:1005} WARNING - Skipping processing of missing file: /opt/airflow/dags/weather_forecast.py
+[2023-05-28 16:33:56,148] {manager.py:1005} WARNING - Skipping processing of missing file: /opt/airflow/dags/weather_forecast.py
+[2023-05-28 16:33:57,040] {manager.py:1005} WARNING - Skipping processing of missing file: /opt/airflow/dags/weather_forecast.py
+[2023-05-28 16:33:57,160] {manager.py:1005} WARNING - Skipping processing of missing file: /opt/airflow/dags/weather_forecast.py
+[2023-05-28 16:33:58,050] {manager.py:1005} WARNING - Skipping processing of missing file: /opt/airflow/dags/weather_forecast.py
+[2023-05-28 16:33:58,172] {manager.py:1005} WARNING - Skipping processing of missing file: /opt/airflow/dags/weather_forecast.py
+[2023-05-28 16:33:59,064] {manager.py:1005} WARNING - Skipping processing of missing file: /opt/airflow/dags/weather_forecast.py
+[2023-05-28 16:33:59,181] {manager.py:1005} WARNING - Skipping processing of missing file: /opt/airflow/dags/weather_forecast.py
+[2023-05-28 16:34:00,075] {manager.py:1005} WARNING - Skipping processing of missing file: /opt/airflow/dags/weather_forecast.py
+[2023-05-28 16:34:00,189] {manager.py:1005} WARNING - Skipping processing of missing file: /opt/airflow/dags/weather_forecast.py
+[2023-05-28 16:34:01,091] {manager.py:1005} WARNING - Skipping processing of missing file: /opt/airflow/dags/weather_forecast.py
+[2023-05-28 16:34:01,200] {manager.py:1005} WARNING - Skipping processing of missing file: /opt/airflow/dags/weather_forecast.py
+[2023-05-28 16:34:02,098] {manager.py:1005} WARNING - Skipping processing of missing file: /opt/airflow/dags/weather_forecast.py
+[2023-05-28 16:34:02,207] {manager.py:1005} WARNING - Skipping processing of missing file: /opt/airflow/dags/weather_forecast.py
+[2023-05-28 16:34:03,108] {manager.py:1005} WARNING - Skipping processing of missing file: /opt/airflow/dags/weather_forecast.py
+[2023-05-28 16:34:03,214] {manager.py:1005} WARNING - Skipping processing of missing file: /opt/airflow/dags/weather_forecast.py
+[2023-05-28 16:34:04,121] {manager.py:1005} WARNING - Skipping processing of missing file: /opt/airflow/dags/weather_forecast.py
+[2023-05-28 16:34:04,222] {manager.py:1005} WARNING - Skipping processing of missing file: /opt/airflow/dags/weather_forecast.py
+[2023-05-28 16:34:05,130] {manager.py:1005} WARNING - Skipping processing of missing file: /opt/airflow/dags/weather_forecast.py
+[2023-05-28 16:34:05,229] {manager.py:1005} WARNING - Skipping processing of missing file: /opt/airflow/dags/weather_forecast.py
+[2023-05-28 16:34:06,142] {manager.py:1005} WARNING - Skipping processing of missing file: /opt/airflow/dags/weather_forecast.py
+[2023-05-28 16:34:06,240] {manager.py:1005} WARNING - Skipping processing of missing file: /opt/airflow/dags/weather_forecast.py
+[2023-05-28 16:34:07,328] {manager.py:1005} WARNING - Skipping processing of missing file: /opt/airflow/dags/weather_forecast.py
+[2023-05-28 16:34:07,609] {manager.py:1005} WARNING - Skipping processing of missing file: /opt/airflow/dags/weather_forecast.py
+[2023-05-28 16:34:08,551] {manager.py:1005} WARNING - Skipping processing of missing file: /opt/airflow/dags/weather_forecast.py
+[2023-05-28 16:34:08,653] {manager.py:1005} WARNING - Skipping processing of missing file: /opt/airflow/dags/weather_forecast.py
+[2023-05-28 16:34:09,603] {manager.py:1005} WARNING - Skipping processing of missing file: /opt/airflow/dags/weather_forecast.py
+[2023-05-28 16:34:09,733] {manager.py:1005} WARNING - Skipping processing of missing file: /opt/airflow/dags/weather_forecast.py
+[2023-05-28 16:34:10,638] {manager.py:1005} WARNING - Skipping processing of missing file: /opt/airflow/dags/weather_forecast.py
+[2023-05-28 16:34:10,748] {manager.py:1005} WARNING - Skipping processing of missing file: /opt/airflow/dags/weather_forecast.py
+[2023-05-28 16:34:11,686] {manager.py:1005} WARNING - Skipping processing of missing file: /opt/airflow/dags/weather_forecast.py
+[2023-05-28 16:34:11,759] {manager.py:1005} WARNING - Skipping processing of missing file: /opt/airflow/dags/weather_forecast.py
+[2023-05-28 16:34:12,743] {manager.py:1005} WARNING - Skipping processing of missing file: /opt/airflow/dags/weather_forecast.py
+[2023-05-28 16:34:12,796] {manager.py:1005} WARNING - Skipping processing of missing file: /opt/airflow/dags/weather_forecast.py
+[2023-05-28 16:34:13,770] {manager.py:1005} WARNING - Skipping processing of missing file: /opt/airflow/dags/weather_forecast.py
+[2023-05-28 16:34:13,908] {manager.py:1005} WARNING - Skipping processing of missing file: /opt/airflow/dags/weather_forecast.py
+[2023-05-28 16:34:14,916] {manager.py:1005} WARNING - Skipping processing of missing file: /opt/airflow/dags/weather_forecast.py
+[2023-05-28 16:34:15,005] {manager.py:1005} WARNING - Skipping processing of missing file: /opt/airflow/dags/weather_forecast.py
+[2023-05-28 16:34:15,936] {manager.py:1005} WARNING - Skipping processing of missing file: /opt/airflow/dags/weather_forecast.py
+[2023-05-28 16:34:16,065] {manager.py:1005} WARNING - Skipping processing of missing file: /opt/airflow/dags/weather_forecast.py
+[2023-05-28 16:34:16,971] {manager.py:1005} WARNING - Skipping processing of missing file: /opt/airflow/dags/weather_forecast.py
+[2023-05-28 16:34:17,108] {manager.py:1005} WARNING - Skipping processing of missing file: /opt/airflow/dags/weather_forecast.py
+[2023-05-28 16:34:18,007] {manager.py:1005} WARNING - Skipping processing of missing file: /opt/airflow/dags/weather_forecast.py
+[2023-05-28 16:34:18,172] {manager.py:1005} WARNING - Skipping processing of missing file: /opt/airflow/dags/weather_forecast.py
+[2023-05-28 16:34:19,073] {manager.py:1005} WARNING - Skipping processing of missing file: /opt/airflow/dags/weather_forecast.py
+[2023-05-28 16:34:19,217] {manager.py:1005} WARNING - Skipping processing of missing file: /opt/airflow/dags/weather_forecast.py
+[2023-05-28 16:34:20,093] {manager.py:1005} WARNING - Skipping processing of missing file: /opt/airflow/dags/weather_forecast.py
+[2023-05-28 16:34:20,244] {manager.py:1005} WARNING - Skipping processing of missing file: /opt/airflow/dags/weather_forecast.py
+[2023-05-28 16:34:21,110] {manager.py:1005} WARNING - Skipping processing of missing file: /opt/airflow/dags/weather_forecast.py
+[2023-05-28 16:34:21,399] {manager.py:1005} WARNING - Skipping processing of missing file: /opt/airflow/dags/weather_forecast.py
+[2023-05-28 16:34:22,150] {manager.py:1005} WARNING - Skipping processing of missing file: /opt/airflow/dags/weather_forecast.py
+[2023-05-28 16:34:22,454] {manager.py:1005} WARNING - Skipping processing of missing file: /opt/airflow/dags/weather_forecast.py
+[2023-05-28 16:34:23,203] {manager.py:1005} WARNING - Skipping processing of missing file: /opt/airflow/dags/weather_forecast.py
+[2023-05-28 16:34:23,207] {manager.py:803} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                              PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/weather_forecast.py                           1           0  0.73s           2023-05-28T16:31:30
+================================================================================
+[2023-05-28 16:34:23,471] {manager.py:1005} WARNING - Skipping processing of missing file: /opt/airflow/dags/weather_forecast.py
+[2023-05-28 16:34:24,216] {manager.py:1005} WARNING - Skipping processing of missing file: /opt/airflow/dags/weather_forecast.py
+[2023-05-28 16:34:24,522] {manager.py:1005} WARNING - Skipping processing of missing file: /opt/airflow/dags/weather_forecast.py
+[2023-05-28 16:34:25,227] {manager.py:1005} WARNING - Skipping processing of missing file: /opt/airflow/dags/weather_forecast.py
+[2023-05-28 16:34:25,558] {manager.py:1005} WARNING - Skipping processing of missing file: /opt/airflow/dags/weather_forecast.py
+[2023-05-28 16:34:26,250] {manager.py:1005} WARNING - Skipping processing of missing file: /opt/airflow/dags/weather_forecast.py
+[2023-05-28 16:34:26,566] {manager.py:1005} WARNING - Skipping processing of missing file: /opt/airflow/dags/weather_forecast.py
+[2023-05-28 16:34:27,265] {manager.py:1005} WARNING - Skipping processing of missing file: /opt/airflow/dags/weather_forecast.py
+[2023-05-28 16:34:27,595] {manager.py:1005} WARNING - Skipping processing of missing file: /opt/airflow/dags/weather_forecast.py
+[2023-05-28 16:34:28,287] {manager.py:1005} WARNING - Skipping processing of missing file: /opt/airflow/dags/weather_forecast.py
+[2023-05-28 16:34:28,624] {manager.py:1005} WARNING - Skipping processing of missing file: /opt/airflow/dags/weather_forecast.py
+[2023-05-28 16:34:29,345] {manager.py:1005} WARNING - Skipping processing of missing file: /opt/airflow/dags/weather_forecast.py
+[2023-05-28 16:34:29,648] {manager.py:684} INFO - Searching for files in /opt/airflow/dags
+[2023-05-28 16:34:29,677] {manager.py:687} INFO - There are 0 files in /opt/airflow/dags
